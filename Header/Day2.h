@@ -7,7 +7,7 @@
 #include <stdbool.h>
 
 //The solution for day 2 "advent of code"
-//The task can be viewed at this link https://adventofcode.com/2023/day/2
+//The task is here https://adventofcode.com/2023/day/2
 
 static const char* FILENAME = "InputData/Day2Input.txt";
 static const int BUFFER_SIZE = 512;

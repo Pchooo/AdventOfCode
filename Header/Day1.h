@@ -8,9 +8,9 @@
 #include <ctype.h>
 
 //The solution for day 1 "advent of code"
-//The task can be viewed at this link https://adventofcode.com/2023/day/1
+//The task is here https://adventofcode.com/2023/day/1
 
-int GetSumCalibrationValue(void);
+int GetSumCalibrationValue(void); //Entrance
 bool GetTwoDigitNumFromString(int* TwoDigitNum); // return false when EOF
 
 #endif /* Day1_h */
